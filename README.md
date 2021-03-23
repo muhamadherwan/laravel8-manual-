@@ -1,4 +1,4 @@
-# Laravel8 Manual
+# Laravel 8 Manual
 
-## Chapter 1: Installtion.
+## Chapter 1: Installation.
 * Setup composer.
