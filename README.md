@@ -24,3 +24,4 @@
 **** laravel new myapp
 *** Run the project in local server:
 **** php artisan serve
+
