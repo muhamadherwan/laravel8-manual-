@@ -11,16 +11,16 @@
    * composer --version
 * Setup and install Laravel
  * Install Laravel:
-  * composer global require laravel/installer
+   * composer global require laravel/installer
  * Set Laravel cli:
-  * nano ~/.bashrc
-  * Add the following line at the end of the file and save it: export PATH="$HOME/.config/composer/vendor/bin:$PATH"
-  * source ~/.bashrc
+   * nano ~/.bashrc
+   * Add the following line at the end of the file and save it: export PATH="$HOME/.config/composer/vendor/bin:$PATH"
+   * source ~/.bashrc
  * Test laravel installation:
   * Check laravel version:
-   * laravel -V
+    * laravel -V
   * Create new project:
-   * laravel new myapp
+    * laravel new myapp
   * Run the project in local server:
-   * php artisan serve
+    * php artisan serve
 
